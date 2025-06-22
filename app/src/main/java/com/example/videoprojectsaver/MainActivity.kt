@@ -1,4 +1,4 @@
-package com.yourcompany.gardeningvideoorganizer
+package com.example.videoprojectsaver
 
 import android.os.Bundle
 import android.widget.Button
@@ -10,8 +10,6 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.videoprojectsaver.Project
-import com.example.videoprojectsaver.R
 import com.yourcompany.videoprojectsaver.ProjectAdapter
 import java.io.File // Import for File operations
 
